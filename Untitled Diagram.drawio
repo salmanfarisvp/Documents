@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-12T08:57:59.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="rU90aO3ECmUKsLT-eYEh" version="12.8.4" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T09:04:52.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="FyND2g48SbGCjSsgg_hl" version="12.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="854" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,18 @@
               <mxPoint x="260" y="450" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iPSKqYX2YNfqsW9dUvsd-39" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iPSKqYX2YNfqsW9dUvsd-40" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iPSKqYX2YNfqsW9dUvsd-43" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;MakerSpace related news /Blogs&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;MakerSpace Forum&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Project Dashboard&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;UserProfile&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="600" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iPSKqYX2YNfqsW9dUvsd-44" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;General Maker news/Blogs&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;General Forum&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;User Profile and Dashboard&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="590" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
